@@ -10,7 +10,18 @@ _Full time Idiot_ :muscle:
 
 ### Projects:
 
-| <img align="center" width="82" height="82" src="https://github.com/x-tabdeveloping/topic-wizard/raw/main/assets/logo.svg"> [topicwizard](https://x-tabdeveloping.github.io/topic-wizard/) | <img align="center" width="82" height="82" src="https://github.com/centre-for-humanities-computing/tweetopic/raw/main/docs/_static/icon.svg"> [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) | <img align="center" width="82" height="82" src="https://github.com/x-tabdeveloping/neofuzz/raw/main/docs/_static/logo.svg"> [Neofuzz](https://x-tabdeveloping.github.io/neofuzz/) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Powerful topic model visualization | Blazing fast short-text topic modelling | Blazing fast fuzzy text search empowered by machine learning | General-purpose language pipeline for Ancient Greek |
-| [<img src="topicwizard.gif" width="300" />](https://x-tabdeveloping.github.io/topic-wizard/) | [<img src="https://github.com/centre-for-humanities-computing/tweetopic/raw/main/docs/_static/banner.svg" width="450" />](https://centre-for-humanities-computing.github.io/tweetopic/) | [<img src="neofuzz.svg" width="450" />](https://x-tabdeveloping.github.io/neofuzz/) |
+|  | |  |
+| :-: | - | - |
+|<img align="center" width="82" height="82" src="https://github.com/x-tabdeveloping/topicwizard/raw/main/assets/logo.svg"> | [topicwizard](https://github.com/x-tabdeveloping/topicwizard)| Interpret your topic models in a full-fledged interactive framework. |
+|<img align="center" width="82" height="82" src="https://github.com/centre-for-humanities-computing/tweetopic/raw/main/docs/_static/icon.svg"> | [tweetopic](https://github.com/centre-for-humanities-computing/tweetopic) | Blazing Fast implementations of short-text topic models. |
+|<img align="center" width="82" height="82" src="https://github.com/centre-for-humanities-computing/stormtrooper/raw/main/assets/logo.svg"> | [stormtrooper](https://github.com/centre-for-humanities-computing/stormtrooper)| Zero and few shot learning with Large Language Models |
+|<img align="center" width="82" height="82" src="https://github.com/centre-for-humanities-computing/embedding-explorer/raw/main/assets/logo.svg"> | [embedding-explorer](https://github.com/centre-for-humanities-computing/embedding-explorer)| Interactively explore your embeddings with semantic graphs and clustering. |
+|<img align="center" width="82" height="82" src="https://github.com/x-tabdeveloping/neofuzz/raw/main/docs/_static/logo.svg"> | [neofuzz](https://github.com/x-tabdeveloping/neofuzz) | Blazing fast fuzzy and semantic text search with the power of machine learning. |
+|<img align="center" width="82" height="82" src="https://raw.githubusercontent.com/centre-for-humanities-computing/odyCy/7b94fec60679d06272dca88a4dcfe0f329779aea/docs/_static/logo.svg"> | [OdyCy](https://centre-for-humanities-computing.github.io/odyCy/)| General Purpose NLP pipelines for Ancient Greek |
+| | [glovpy](https://github.com/centre-for-humanities-computing/glovpy)| Blazing fast GloVe interface for Python using the original C implementation. |
+
+### Contributions:
+
+|  | |  |
+| :-: | - | - |
+|<img align="center" width="82" height="82" src="https://raw.githubusercontent.com/koaning/embetter/main/docs/images/icon.png"> | [embetter](https://github.com/koaning/embetter) | Added scikit-learn compatible Gensim encoder models. |
