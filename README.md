@@ -25,5 +25,5 @@ _Full time Idiot_ :muscle:
 
 |  | |  |
 | :-: | - | - |
+|<img align="center" width="82" height="82" src="https://github.com/embeddings-benchmark/mteb/blob/main/docs/images/mteb_logo/mteb_logo_tight_hfhub.png?raw=true"> | [MTEB](https://github.com/embeddings-benchmark/mteb) | Coathur of MMTEB, part of the managing team, main developer of the multilingual leaderboard |
 |<img align="center" width="82" height="82" src="https://raw.githubusercontent.com/koaning/embetter/main/docs/images/icon.png"> | [embetter](https://github.com/koaning/embetter) | Added scikit-learn compatible Gensim encoder models. |
-|<img align="center" width="82" height="82" src="https://github.com/embeddings-benchmark/mteb/blob/main/docs/images/mteb_logo/mteb_logo_tight_hfhub.png?raw=true"> | [MTEB](https://github.com/embeddings-benchmark/mteb) | Helped organize the open source effort around MMTEB (Massively Multilingual Text Embedding Benchmark), contributed new tasks and datasets. |
